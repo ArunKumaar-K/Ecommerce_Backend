@@ -432,6 +432,6 @@ This project demonstrates practical experience with:
 
 Java Backend Developer | Spring Boot | REST APIs | MySQL | Spring Security | Cyber Security
 
-GitHub: [Add your GitHub profile URL here.](https://github.com/ArunKumaar-K)
+GitHub: https://github.com/ArunKumaar-K
 
 LinkedIn: www.linkedin.com/in/arun-k-05074b285

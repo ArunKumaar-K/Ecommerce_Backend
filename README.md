@@ -349,23 +349,6 @@ A successful login should return an access token.
 
 ### Step 3: Access a Protected Endpoint
 
-E-Commerce Backend API
-│
-├── Products
-│   ├── Create Product          POST
-│   ├── Get All Products        GET
-│   ├── Get Product By ID       GET
-│   ├── Update Product          PUT
-│   └── Delete Product          DELETE
-│
-├── Authentication
-│   ├── Register User           POST
-│   └── Login User               POST
-│
-└── Security Tests
-    ├── Request Without Token
-    ├── Request With Invalid Token
-    └── Request With Valid Token
 
 Send a `GET` request to:
 

@@ -349,7 +349,6 @@ A successful login should return an access token.
 
 ### Step 3: Access a Protected Endpoint
 
-
 E-Commerce Backend API
 │
 ├── Products
@@ -361,7 +360,7 @@ E-Commerce Backend API
 │
 ├── Authentication
 │   ├── Register User           POST
-│   └── Login User              POST
+│   └── Login User               POST
 │
 └── Security Tests
     ├── Request Without Token

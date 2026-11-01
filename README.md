@@ -226,11 +226,9 @@ Maven is available through the included Maven Wrapper, so a separate Maven insta
 ### 1. Clone the Repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/ArunKumaar-K/Ecommerce_Backend.git
 cd ecommerce
 ```
-
-Replace `<YOUR_GITHUB_REPOSITORY_URL>` with your repository's actual clone URL.
 
 ### 2. Create the MySQL Database
 
@@ -431,8 +429,8 @@ This project demonstrates practical experience with:
 
 **Arun K**
 
-Java Backend Developer | Spring Boot | REST APIs | MySQL | Spring Security
+Java Backend Developer | Spring Boot | REST APIs | MySQL | Spring Security | Cyber Security
 
-GitHub: Add your GitHub profile URL here.
+GitHub: [Add your GitHub profile URL here.](https://github.com/ArunKumaar-K)
 
-LinkedIn: Add your LinkedIn profile URL here.
+LinkedIn: www.linkedin.com/in/arun-k-05074b285

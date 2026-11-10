@@ -226,8 +226,10 @@ Maven is available through the included Maven Wrapper, so a separate Maven insta
 ### 1. Clone the Repository
 
 ```bash
+
 git clone https://github.com/ArunKumaar-K/Ecommerce_Backend.git
-cd ecommerce
+cd Ecommerce_Backend
+
 ```
 
 ### 2. Create the MySQL Database
